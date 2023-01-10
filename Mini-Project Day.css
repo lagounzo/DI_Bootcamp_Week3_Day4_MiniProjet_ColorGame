@@ -1,0 +1,270 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    /* background-color: #eee; */
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CONTAINER
+========================== */
+
+.container {
+    display: flex;
+    background-color: #eee;
+    /* border: 2px solid red; */
+    height: 617px;
+    justify-content: start
+    /* grid-template-columns: (1fr, 4fr); */
+     
+    }
+    /* * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    } */
+    
+
+    /* BOUTTON */
+
+.cleaner {
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 22px;
+    /* margin: 4px 2px; */
+    /* cursor: pointer; */
+    justify-content: center;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.btn-left{
+    margin-left: 38px;
+    justify-content: center;
+}
+
+
+
+    /* BLOC COLOR LEFT */
+    
+.gille-left {
+
+    border: 1px solid black;
+    width: 20%; 
+}
+
+
+.card-color {
+    display: flex;
+    
+
+}
+
+/* DIV COLOR */
+
+.card-color1{
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color2{
+    /* background: orangered; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color3{
+    /* background:orange; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+
+.card-color4{ 
+
+    /* background: yellow; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color5{
+    /* background: yellowgreen; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color6{
+    /* background:  cyan;  */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color7{
+    /* background: lightskyblue; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color8{
+    /* background: dodgerblue; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color9{
+    /* background: blue; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color10{
+    /* background: darkblue; */
+    width: 45px;
+    height: 70px;
+    margin: 6px; 
+        width: 60px;
+}
+
+.card-color11{
+    /* background: indigo; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color12{
+    /* background: darkmagenta; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+        width: 60px;
+}
+
+ .card-color13{
+    /* background: violet; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color14{
+    /* background: lightgray; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color15{
+    /* background: green; */
+    width: 45px;    
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color16{
+    /* background: turquoise; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+}
+
+.card-color17{
+    background: lightgreen; 
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+    
+} 
+
+.card-color18{
+    /* background: lightgreen; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+    
+}
+
+.card-color19{
+    /* background:  gray; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+    
+}
+
+.card-color20{
+    /* background: black; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+    
+}
+
+.card-color21{
+    /* background:  white; */
+    width: 45px;
+    height: 70px;
+    margin: 6px;
+    width: 60px;
+
+    
+}
+
+
+/*  div design */
+
+.area-design {
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(60, 1fr);
+    gap: 1px;
+    width: 100%;
+
+ } 
+
+
+/* .card div {
+    display: flex;
+ border: 2px solid red;
+    width: 10px;
+    height: 20px;
+} */
